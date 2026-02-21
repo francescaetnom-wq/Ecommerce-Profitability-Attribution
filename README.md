@@ -30,12 +30,13 @@ Calculating precise LTV (Lifetime Value) segments.
 
 ## Table 01 overview:
 
-traffic_source	revenue	     gross_profit	  profit_margin_pct
-Search	        5630491.56	 2920516.94	    51.87
-Organic	        1181930.08	  612837.28	    51.85
-Facebook	      471973.49	     244794.0	    51.87
-Email	          401041.31	    208497.23	    51.99
-Display	        343072.58	    178227.65	    51.95
+| Traffic Source | Revenue | Gross Profit | Profit Margin % |
+| :--- | :--- | :--- | :--- |
+| **Search** | $5,630,491.56 | $2,920,516.94 | 51.87% |
+| **Organic** | $1,181,930.08 | $612,837.28 | 51.85% |
+| **Facebook** | $471,973.49 | $244,794.00 | 51.87% |
+| **Email** | $401,041.31 | $208,497.23 | **51.99%** |
+| **Display** | $343,072.58 | $178,227.65 | 51.95% |
 
 ## Strategic insights & data interpretation
 Consistency Across Channels: Gross margin remains remarkably stable at approximately 51.9% across all traffic sources. This suggests a highly consistent pricing strategy and indicates that no specific channel is currently "eroding" margins through aggressive discounting or low-value product dumping.
